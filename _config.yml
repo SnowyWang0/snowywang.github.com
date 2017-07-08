@@ -42,4 +42,4 @@ imgrepo: "http://snowywang0.github.io/snowywang.github.com/static/img"
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
